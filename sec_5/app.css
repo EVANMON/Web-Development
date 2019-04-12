@@ -1,0 +1,21 @@
+h1 {
+	color: purple;
+/*	border-style: solid;
+	border-color: pink;
+	border-width: 5px;*/
+	border: solid pink 5px;
+}
+
+li	{
+	color: orange;
+}
+
+h4 {
+	background: rgb(200, 80, 100);
+}
+
+body {
+	background: url(https://i.kym-cdn.com/entries/icons/original/000/019/677/selon_les_concepteurs_de_la_serie_pokemon_pikachu_n_est_pas_une_souris_9271.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
