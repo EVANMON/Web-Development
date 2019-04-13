@@ -1,9 +1,9 @@
 p {
-	font-family: Arial;
+	font-family: 'Dokdo', cursive;
 }
 
 h1 {
-	font-family: Georgia;
+	font-family:'Cute Font', cursive;
 }
 
 
@@ -12,7 +12,7 @@ h1 {
 }
 
 p {
-	font-size: 12px;
+	font-size: 24px;
 }
 
 span {
