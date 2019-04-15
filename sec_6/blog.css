@@ -1,0 +1,41 @@
+body {
+	border: 20px solid #bdc3c7;
+	width: 80%;
+	max-width: 700px;
+	margin: 20px auto;
+	font-family: "Source Sans Pro", sans-serif;
+	padding: 20px;
+}
+
+.date {
+	color: #3498db;
+	text-transform: uppercase;
+	letter-spacing: 0.2rem;
+}
+
+.first {
+	border-left: 5px solid #bdc3c7;
+	padding-left: 5px;
+}
+
+/*div {
+	margin: 10px;
+	border-bottom: 3px solid #f1f1f1;
+}*/
+
+div {
+	margin-bottom: 20px;
+}
+
+h2 {
+	color: #2c3e50;
+	font-size: 2.0rem;
+	/*font-weight: 700;*/
+	text-transform: capitalize;
+}
+
+hr {
+	height: 6px;
+	background: url(http://ibrahimjabbari.com/english/images/hr-11.png) repeat-x 0 0;
+    border: 0;
+}
